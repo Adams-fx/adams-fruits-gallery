@@ -1,0 +1,38 @@
+
+body{
+    background-color:rgb(17, 134, 17);
+    text-align: center;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center
+}
+
+img {
+    width:200px;
+    height:150px;
+    padding:10px;
+  }
+
+  .h1{
+    background-color: rebeccapurple;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 6px;
+  }
+
+  h1{
+    color: aliceblue;
+  }
+
+  .Real{
+    margin: 30px;
+  }
+
